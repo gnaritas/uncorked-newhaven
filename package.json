@@ -1,0 +1,9 @@
+{
+  "name": "uncorked-newhaven",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Uncorked Wine Bar (975 State Street, New Haven, CT) — just-opened site (websites lane)",
+  "main": "server.js",
+  "engines": { "node": ">=20" },
+  "scripts": { "start": "node server.js" }
+}
